@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scroll-div {
+  height: "100vh";
+  overflow-y: "scroll";
+  overflow-x: hidden;
+}
