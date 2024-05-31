@@ -25,3 +25,13 @@ NEXT_PUBLIC_BASE_URL=http://localhost:3001
 2. npm run build
 3. npm run start
 4. Browse to `localhost:3000`
+
+### Some project snaps
+
+#### homepage
+
+![Home Page](homepage-snap.png?raw=true "home page")
+
+#### details page
+
+![details Page](details-page-snap.png?raw=true "home page")
